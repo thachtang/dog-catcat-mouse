@@ -5,5 +5,5 @@ function cat(argument) {
 cat.prototype.eat  = function(){
 	this.stomach.push(mouse);
 
-}
-module.exports = cat ;
+} 
+module.exports = cat ; 
